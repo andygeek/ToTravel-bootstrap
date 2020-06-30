@@ -1,0 +1,34 @@
+@media (min-width: 576px) {
+  .container {
+    max-width: 500px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 900px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 900px;
+  }
+}
+
+.credits a {
+  text-decoration: none;
+  color: black;
+}
+#main-image {
+  width: 400px;
+}
+img {
+  width: 300px;
+}
